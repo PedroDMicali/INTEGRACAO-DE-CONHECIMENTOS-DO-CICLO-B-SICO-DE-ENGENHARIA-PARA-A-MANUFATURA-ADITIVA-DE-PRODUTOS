@@ -1,4 +1,5 @@
 #Apêndice A
+
 Tabela 1 - coordenadas de cada ponto
 | Ponto | x | y | z |
 | --- | ---: | ---: | ---: |
